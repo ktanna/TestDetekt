@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml:2:1-59
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml:2:1-59
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml:2:1-59
+	package
+		ADDED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml:2:11-57
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml:2:1-59
+uses-sdk
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+		ADDED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+		ADDED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml
+		INJECTED from /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/AndroidManifest.xml

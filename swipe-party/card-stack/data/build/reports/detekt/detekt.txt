@@ -1,0 +1,15 @@
+TooManyFunctions - 14/11 - [TestClass] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:1:7 - Signature=TestClass.kt$TestClass
+EmptyFunctionBlock - [foo] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:3:15 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo2] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:6:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo3] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:9:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo4] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:12:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo5] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:15:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo6] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:18:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo7] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:21:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo8] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:24:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo9] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:27:16 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo10] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:30:17 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo11] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:33:17 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo12] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:36:17 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo13] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:39:17 - Signature=TestClass.kt$TestClass${ }
+EmptyFunctionBlock - [foo14] at /Users/kuldeeptanna/AndroidStudioProjects/TestDetekt/swipe-party/card-stack/data/src/main/kotlin/TestClass.kt:42:17 - Signature=TestClass.kt$TestClass${ }
